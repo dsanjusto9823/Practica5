@@ -1,5 +1,6 @@
 # Practica5: Buses de Comunicación I (Introducción y I2C)
-## Objetivo: El objetivo de esta práctica es comprender el funcionamiento de los buses de comunicación entre periféricos, en concreto el protocolo I2C. Es un protocolo que
+## Objetivo: 
+El objetivo de esta práctica es comprender el funcionamiento de los buses de comunicación entre periféricos, en concreto el protocolo I2C. Es un protocolo que
 permite la conexión de múltiples dispositivos solo con dos líneas: SDA, transportador de datos y SCL, proporciona la señal de sincronización. Para ello haremos dos ejercicios introductorios.
 ## Apartado 1:
 En este apartado implementamos un escáner I2C y asi detectar que dispositivos están conectados a este y las direcciones de ellos en el monitor série. 
